@@ -1,0 +1,10 @@
+var names = [];
+var nums = [];
+var users = [];
+var user1 = { _id: '090912', name: 'Ahad Ali', email: 'ahad.a@hsenid.com', isActive: false };
+names.push('Ahad');
+nums.push(2);
+users.push(user1);
+console.log(names);
+console.log(nums);
+console.log(users);
